@@ -1,4 +1,4 @@
-# QRCode Generator
+# QRCode Generator (Python)
 This project is made by Nguyen Thai Minh
 
 ## How to use?
